@@ -36,7 +36,8 @@
 
 ### 📱 &nbsp;Vamos conectar?
 
+<p align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_luanbernardo)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-bernardo-b7aa7b2b7)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oluanbernardo0@gmail.com)
-
+</p>
