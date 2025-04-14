@@ -1,4 +1,4 @@
-<h1 align="center">Luan Bernardo 👨‍💻</h1>
+<h1 align="center">Luan Bernardo 💻</h1>
 
 <p align="center">
   <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
@@ -37,7 +37,13 @@
 ### 📱 &nbsp;Vamos conectar?
 
 <p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_luanbernardo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-bernardo-b7aa7b2b7)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oluanbernardo0@gmail.com)
+  <a href="https://www.linkedin.com/in/luan-bernardo-b7aa7b2b7" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:oluanbernardo0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_luanbernardo" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
 </p>
