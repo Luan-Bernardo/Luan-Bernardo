@@ -29,7 +29,6 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luan-Bernardo&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Bernardo&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 ---
