@@ -1,31 +1,35 @@
 <h1 align="center">Luan Bernardo 💻</h1>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
-  19 anos | São Paulo - SP
+  <strong>Full Stack Developer</strong><br>
+  São Paulo - SP
 </p>
 
 ---
 
-🎓 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na São Judas.  
-🚀 Apaixonado por tecnologia, focado em desenvolvimento Web e Back-end.  
-📚 Estudando: HTML, CSS, JavaScript, Java, MySQL e Git.  
-💡 Em busca de desafios, evolução constante e projetos reais com impacto.  
+💻 Desenvolvedor Full Stack, com foco em desenvolvimento Web e Back-end.
+🚀 Experiência com desenvolvimento de aplicações utilizando Java, Spring Boot e React.
+🛠️ Tecnologias: Java, Spring Boot, React, JavaScript, Node.js, MySQL, PostgreSQL e Git.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela São Judas.
 
 ---
 
-### 🛠️ &nbsp;Linguagens e Tecnologias
+### 🛠️  Linguagens e Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 
 ---
 
-### 📊 &nbsp;Estatísticas do GitHub
+### 📊  Estatísticas do GitHub
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luan-Bernardo&show_icons=true&theme=radical&count_private=true"/>
@@ -34,7 +38,7 @@
 
 ---
 
-### 📱 &nbsp;Vamos conectar?
+### 📱  Vamos conectar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-bernardo-b7aa7b2b7" target="_blank">
